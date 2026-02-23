@@ -2,7 +2,7 @@
 Personal Expense Tracker is a Python based command-line tool that helps record and manage daily expenses. It uses core programming concepts such as lists,  dictionaries, functions, loops, file handling, and CSV operations
 
 ## Key Features 
-###1. Add Expense 
+### 1. Add Expense 
 Allows the user to enter the date, category, price, and description of each expense. 
 ### 2. View Expenses 
 Displays all recorded expenses in an organized format and warns if an entry is incomplete. 
